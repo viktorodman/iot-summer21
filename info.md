@@ -5,3 +5,5 @@
 - https://hackmd.io/@NEA/HJOnmT4CU
 - https://github.com/pycom/pycom-libraries/blob/master/lib/mqtt/mqtt.py
 - https://github.com/iot-lnu/applied-iot/tree/master/sensor-examples/DHT11%20%26%20DHT22%20-%20Humidity%20%26%20Temperature%20Sensor/lib
+- https://docs.pycom.io/tutorials/networkprotocols/mqtt/
+- https://docs.pycom.io/firmwareapi/pycom/network/wlan/
